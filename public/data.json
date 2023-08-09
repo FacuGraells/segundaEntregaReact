@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "48 leyes del poder",
+        "author": "Robert Greene",
+        "price": 10,
+        "img": "https://miro.medium.com/v2/resize:fit:1400/1*Y7fO3Z7YS4cV86k6F6C4Lw.jpeg",
+        "quanty": 1
+    },
+
+    {
+        "id": 2,
+        "name": "Padre rico, padre pobre",
+        "author": "Robert T. Kiyosaki",
+        "price": 15,
+        "img": "https://movemequotes.com/wp-content/uploads/2013/01/17-Robert-Kiyosaki-Quotes-From-Rich-Dad-Poor-Dad-on-Education-and-Financial-Freedom-930x620.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 3,
+        "name": "El poder del ahora",
+        "author": "Eckhart Tolle",
+        "price": 25,
+        "img": "https://www.nuevatribuna.es/media/nuevatribuna/images/2023/04/14/2023041418325691217.jpg",
+        "quanty": 1
+    },
+
+    {
+        "id": 4,
+        "name": "Se amable contigo mismo",
+        "author": "Kristin Neff",
+        "price": 45,
+        "img": "https://http2.mlstatic.com/D_NQ_NP_890241-MLA70717935093_072023-O.webp",
+        "quanty": 1
+    }
+    
+]
